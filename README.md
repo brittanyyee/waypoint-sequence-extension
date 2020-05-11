@@ -1,4 +1,4 @@
-# HERE maps waypoint sequence extension API
+# HERE maps waypoint sequence extension API with Leaflet and Vue.js
 
 ## Project setup
 ```
