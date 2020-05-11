@@ -1,4 +1,4 @@
-# episode5
+# HERE maps waypoint sequence extension API
 
 ## Project setup
 ```
